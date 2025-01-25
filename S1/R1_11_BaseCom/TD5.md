@@ -1,0 +1,9 @@
+- Orthographe
+- Problème de formulation de phrase "excusez moi de mon absence d'aujourd'hui .."
+- "Excuse moi"
+- Phrase à rallonge
+- Structuration du mail (Salutation, Contexte, .. Politesse)
+- M., pas Mr
+- C'est souvent au prof de proposer un créneau
+- 'jai par egalement'
+- autre et pas notre

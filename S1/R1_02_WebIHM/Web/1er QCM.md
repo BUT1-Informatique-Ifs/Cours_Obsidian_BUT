@@ -1,0 +1,21 @@
+# Feuille de révision :
+- Accessibilité
+- tableau en html
+- media queries
+- date
+- flexbox
+- grid
+- SEO
+- type="email" ou "tel" ou "date", .. sont dispo sur Internet Explorer depuis la version 10
+- feuille de style adapté à l'écran d'un tel sur le css : @import "lefichier.css" handheld;
+-  feuille de style adapté à l'écran d'un tel avec link : media="handheld"
+- ease-in : lent au début et accélère
+- box-shadow : decalageX decalageY intensiteFlou etenduFlou couleur
+- un pt = 0,35mm
+- un em = relative à la taille de la police de l'élément parent ou de l'élément
+- un pc = 12pt
+- cellspacing: obsolete depuis html5
+- Comment indiquer à un robot de référencement de suivre les liens d'une page tout en lui interdisant d'indexer celle-ci ? : <meta name="robots" content="noindex,follow"/>
+- hr = ligne horizontale
+- tr = ligne horizontale tableau
+- border-style: outset = encadrement avec relief
