@@ -1,0 +1,62 @@
+- composants
+- physique
+- communication
+- propriétés
+- stéréotype
+- instances
+- environnement
+- logicielle
+- concret
+- stéréotype
+	UML : Les diagrammes de déploiment : il faut faire comme le schéma de gauche pour l'éval
+- relations
+- multiplicités
+	UML : Les diagrammes de classes (AU CONTROLE)
+	UML : Les diagrammes de cas d'utilisation (AU CONTROLE)
+- abstraite
+- interagir
+- réalisation
+- statique
+- abstraite
+- instance
+- L'objet
+- (attributs)
+- instancie
+- objet
+-- Nom de la classe
+-- propriétés
+-- opérations (méthodes)
+-- Paramètre d'entrée
+-- Paramètre de retour
+- état
+- attributs
+- domaine
+- nom
+- type
+- visibilité
+- Public
+- Protected
+- Private
+- Package
+- unique
+- multiplicité
+- nombre
+- copie
+- classe
+- static
+- instances
+- souligné
+- comportements
+- compétences
+- opération
+- méthode
+- unique
+- paramètres d'entrée
+- surchargée
+- impossible
+- in
+- out
+- inout
+- de classe
+- instance
+- soulignée

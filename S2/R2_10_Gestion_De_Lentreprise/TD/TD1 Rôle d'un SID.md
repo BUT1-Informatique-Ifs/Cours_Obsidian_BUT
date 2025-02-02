@@ -12,7 +12,6 @@ Combien de produits dois-je vendre pour commencer à gagner de l'argent ?
 Si j'augmente mes ventes de 10%, de combien cela va-t-il augmenter mon bénéfice ?
 	Levier opérationnel
 
-
 ### <mark class="hltr-pink hltr-bold">Deuxième</mark>
 
 #### <mark class="hltr-blue hltr-bold">Compte de résultat</mark>

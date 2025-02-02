@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "075937907bd02c45",
+        "id": "28f048386671f048",
         "type": "tabs",
         "children": [
           {
-            "id": "dab77360ce5e0f2a",
+            "id": "f118383ed4f7cd21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "S2/R2_13_Communication_Tech_Et_Pro/TD2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TD2"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 311.5
   },
   "right": {
     "id": "cddbbf1f22612a3a",
@@ -89,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -158,23 +162,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dab77360ce5e0f2a",
+  "active": "f118383ed4f7cd21",
   "lastOpenFiles": [
+    "S2/R2_02_Ergonomie_Des_IHM/TD/TD3.md",
+    "S2/R2_11_Droit/TD/TD1 - Le droit et ses fonctions dans la société.md",
+    "S2/R2_01_Dev_POO_UML/CM_UML/Mots CM3 Diagrammes de classes.md",
+    "S2/R2_01_Dev_POO_UML/CM_UML/Mots dans l'ordre CM2.md",
+    "S2/R2_01_Dev_POO_UML/CM_UML/navigabilite.jpg",
+    "S2/R2_01_Dev_POO_UML/CM_UML/navigabilite.jpg.crdownload",
+    "S2/R2_01_Dev_POO_UML/CM_UML/nom_roles_association.jpg",
+    "S2/R2_01_Dev_POO_UML/CM_UML/nom_roles_association.jpg.crdownload",
+    "S2/R2_06_Exploit_BDD/Mot CM Modele relationnel.md",
+    "S2/R2_04_Comm_Fonc_Bas_Niveau/CM4 CPU.md",
+    "S2/R2_07_Graphes/CM5 Dijkstra.md",
+    "S2/R2_07_Graphes/CM4 Arbres et Parcours.md",
+    "S2/R2_01_Dev_POO_UML/TD/TD1.md",
+    "S2/R2_01_Dev_POO_UML/CM4 POO et Polymorphisme.md",
+    "S2/R2_04_Comm_Fonc_Bas_Niveau/CM2 Bibliothèques.md",
+    "S2/R2_13_Communication_Tech_Et_Pro/TD2.md",
+    "S2/R2_13_Communication_Tech_Et_Pro/TD1.md",
     "S2/R2_13_Communication_Tech_Et_Pro/Explication de la ressource.md",
-    "S2/R2_14_PPP/Travail.md",
+    "S2/R2_02_Ergonomie_Des_IHM/TD/TD2.md",
+    "S2/R2_11_Droit/CM/CM1.md",
+    "S2/R2_11_Droit/CM/CM2.md",
+    "S2/R2_06_Exploit_BDD/Mot CM.md",
+    "S2/R2_01_Dev_POO_UML/Untitled.md",
+    "S2/R2_11_Droit/CM.zip",
+    "S2/R2_11_Droit/TD",
+    "S2/R2_11_Intro_Droit/TD",
+    "S2/R2_11_Intro_Droit",
+    "Untitled",
+    "S2/R2_01_Dev_POO_UML/CM3 Paquetages.md",
     "S2/R2_14_PPP/TD1 Connaître le monde professionnel.md",
-    "S2/R2_01_Dev_POO/TD/TD1.md",
-    "S2/R2_03_Qualite_Dev/CM1 GIT.md",
-    "S2/R2_06_Exploit_BDD/POUR EVAL.md",
-    "S2/R2_02_Dev_App_IHM/TD2 Ergonomie.md",
-    "S2/R2_02_Dev_App_IHM",
-    "S2/R2_01_Dev_POO/TD",
-    "S2/R2_01_Dev_POO/CM3 Paquetages.md",
-    "S2/R2_01_Dev_POO/CM2 Les méthodes.md",
-    "S2/R2_01_Dev_POO",
-    "S2/R2_06_Exploit_BDD",
-    "S2",
-    "S1",
-    "Welcome.md"
+    "S2/R2_01_Dev_POO_UML/CM_UML",
+    "S2/R2_14_PPP/Travail.md",
+    "S2/R2_01_Dev_POO_UML/CM2 Les méthodes.md",
+    "S2/R2_04_Comm_Fonc_Bas_Niveau/CM1 Compilateur.md",
+    "S2/R2_10_Gestion_De_Lentreprise/TD/TD1 Rôle d'un SID.md",
+    "S2/R2_11_Droit/CM/image_hierarchie_autorite_legitime.jpg",
+    "S2/R2_11_Droit/CM/image_hierarchie_autorite_legitime.jpg.crdownload",
+    "S2/R2_02_Dev_App_IHM"
   ]
 }

@@ -3587,7 +3587,7 @@ class HighlightrPlugin extends obsidian.Plugin {
                     char: 34,
                     line: 0,
                     prefix: this.settings.highlighterMethods === "css-classes"
-                        ? `<mark class="hltr-${highlighterKey.toLowerCase()}">`
+                        ? `<mark class="hltr-${highlighterKey.toLowerCase()} format">`
                         : `<mark style="font-weight:bolder; color:white; background: ${this.settings.highlighters[highlighterKey]};">`,
                     suffix: "</mark>",
                 },
