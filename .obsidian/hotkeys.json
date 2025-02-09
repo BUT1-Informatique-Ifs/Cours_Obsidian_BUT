@@ -46,5 +46,29 @@
       ],
       "key": "4"
     }
+  ],
+  "highlightr-plugin:Red": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "highlightr-plugin:Blue": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "highlightr-plugin:Purple": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "]"
+    }
   ]
 }

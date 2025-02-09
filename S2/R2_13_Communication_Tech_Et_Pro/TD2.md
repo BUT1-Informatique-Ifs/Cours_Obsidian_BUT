@@ -1,6 +1,4 @@
 # <mark class="hltr-purple format">La communication visuelle</mark>
-
-
 ## <mark class="hltr-green format">Travail</mark>
 
 ### <mark class="hltr-pink format">Nom d'une entreprise de développement informatique</mark>

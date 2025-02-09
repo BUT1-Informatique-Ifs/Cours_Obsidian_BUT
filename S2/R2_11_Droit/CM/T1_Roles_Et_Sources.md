@@ -26,7 +26,7 @@
 ## <mark class="hltr-green format">ll. Sources</mark>
 ### <mark class="hltr-pink format">A) Sources complémentaires et hiérarchisées</mark>
 Les sources de rang supérieures ne peuvent être contredîtes par les sources de rang inférieurs. Ces dernières précisent les règles générales de rang supérieur.
-##### <mark style="font-weight:bolder; color:white; background: #CACFD9A6;">Exemple</mark>
+##### <mark class="hltr-grey format">Exemple</mark>
 Droit de grève reconnu par la **Constitution** : alinéa 7 du Parlement de la Constitution de la IVe République
 
 <mark class="hltr-red format">L2511-1</mark> : la grève est une suspension du contrat de travail => les jours de grève ne sont pas rémunérés mais le contrat reprend dès la grève terminée

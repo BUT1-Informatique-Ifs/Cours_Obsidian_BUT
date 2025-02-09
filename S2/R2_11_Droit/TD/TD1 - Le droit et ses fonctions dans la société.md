@@ -31,17 +31,25 @@ Les hommes risquent une peine pénale, jusqu'à 10 ans d'emprisonnement et une a
 - Organiser la vie en société
 - Pacifier les relations sociales
 ### <mark style="font-weight:bolder; color:white; background: #FFB8EBA6;">Principes généraux d'après la Constitution</mark>
-
 - le caractère souverain (indivisible) : garantit une application uniforme du droit sur l'ensemble des citoyens et sur tout le territoire
 - le caractère laïque : séparation des Eglises et de l'Etat. Aucune religion n'est privilégié.
 - le caractère démocratique : respect des libertés fondamentales et la désignation des différents pouvoirs au suffrage universel
 - le caractère social : principe d'égalité
-- le caractère indivisible : 
-
 ### <mark style="font-weight:bolder; color:white; background: #FFB8EBA6;">Fondements et principes de la justice</mark>
-Tribunaux :
-- Nul ne peut se faire justice lui-même : protège à la fois l'ordre juridique, la fonction judiciaire et l'individu lui-même
+- Nul ne peut se faire justice lui-même : protège à la fois l'ordre juridique, la fonction judiciaire et l'individu lui-même ; ce sont les tribunaux qui règlent les litiges
 
-- Etat de droit garanti : garantie de vie en commun
+- Etat de droit garanti : garantie les droits fondamentaux des citoyens ; le droit est appliqué à tous les citoyens
 
 - Ordre public : implique la préservation du bon ordre, de la sûreté, de la sécurité et de la salubrité publiques et de la dignité humaine
+
+
+
+- Règle de droit :
+	- facultative : règles supplétives :
+		- s'appliquent lorsque la règle obligatoire est moins favorable
+	- obligatoire : sanctionnable
+	- générale : s'applique de façon uniforme à tous les individus
+	- adoptée par des autorités légitimes : les règles de droit ont été édicté par des représentants du peuple
+- Finalité de la sanction civile : réparer le préjudice
+
+- Finalité de la sanction pénale : Sanctionner ; Prévenir
