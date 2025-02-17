@@ -96,3 +96,42 @@
 
 
 ### <mark class="hltr-pink format">Les adresses </mark>
+- 0.0.0.0 est utilisé par les hôtes au démarrage
+- les adresses IP finissant par 0 sont rattachés au réseau en cours
+- pour envoyer un message à tous les hôtes, c'est 255.255.255.255
+
+#### <mark class="hltr-blue format">Adresses privées</mark>
+
+- plusieurs adresses sont réservées et privées
+- sont utilisables en interne et ne sont pas routables
+- sont prévues pour être utilisé avec un NAT (Network Address Translation) ou avec un DHCP
+
+## <mark class="hltr-green format">Les sous réseaux (Subnetting)</mark>
+- une adresse ip possède une partie réseau sur 8, 16 ou 24 bits et une partie hôte.
+Un masque de sous-réseau est un nombre de la même taille que l'adresse. 
+
+
+## <mark class="hltr-green format">Le routage</mark>
+
+- La communication en IP se fait par un acheminement de paquets d'une machine source vers une machine destination B
+
+Problème : Comment atteindre la machine B en ne connaissant que son adresse IP ?
+- On va utiliser des routeurs pour faire la connexion entre des réseaux
+- Routeur : c'est un dispositif réseau qui relie au moins 2 réseaux
+
+L'IP de destination appartient elle au même réseau que l'IP de l'émetteur ?
+- Oui : la remise est direct
+- Non : la remise est indirect
+	- on utilise l'adresse de la passerelle (Gateway) pour sortir du réseau
+
+### <mark class="hltr-pink format">La table de routage</mark>
+Elle contient : 
+- les réseaux à joindre
+- les interfaces de l'hôte considéré
+- les masques correspondants
+- les passerelles à contacter pour les joindre
+- la métrique : le coût de la route
+- les adresses des sous-réseaux auxquels le routeur est directement connecté
+- les routes statiques (configurées par l'admin)
+- les routes dynamiques (apprises dynamiquement)
+- une route par défaut (0.0.0.0) pour sortir du réseau si l'adresse n'a pas été trouvée dans la table

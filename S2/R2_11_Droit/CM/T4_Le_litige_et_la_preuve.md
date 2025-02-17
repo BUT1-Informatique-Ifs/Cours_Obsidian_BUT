@@ -1,5 +1,5 @@
-# T4 - Régimes de responsabilité
-# <mark class="hltr-purple format">T4 - Régimes de responsabilité</mark>
+# T4 - Le litige et la preuve
+# <mark class="hltr-purple format">T4 - Le litige et la preuve</mark>
 
 <mark class="hltr-red format">Litige : conflit entre 2 parties susceptible d'un recours devant la justice</mark>
 
@@ -17,14 +17,12 @@ Parties :
 
 - Recours amiable : conciliation, médiation, arbitrage
 - Résolution judiciaire : tribunal => recours au juge
-
-
 ## <mark class="hltr-green format">ll. Différents litiges </mark>
 
 Il faut distinguer :
 - l'objet du litige
-	- Acte juridique : accord entre 2 ou plusieurs parties afin de créer des droits et des obligations. Les effets (conséquences) ont été prévues à l'avance.
-	- <mark class="hltr-red format">Fait juridique : évènement volontaire ou non qui crée des effets de droit sans que ceux-ci aient été prévus.</mark>
+	- Acte juridique : accord entre 2 ou plusieurs parties afin de créer des droits et des obligations. Les effets (conséquences) ont été prévues à l'avance => responsabilité contractuelle
+	- <mark class="hltr-red format">Fait juridique : évènement volontaire ou non qui crée des effets de droit sans que ceux-ci aient été prévus => responsabilité extracontractuelle</mark>
 		- <mark class="hltr-grey format">Exemple :</mark> séparation d'un couple avec un enfant, le père devra payer une pension alimentaire (l'enfant est un évènement volontaire mais la pension alimentaire n'était pas prévue)
 - les moyens de preuve :
 	- Actes juridiques : écrit
@@ -37,4 +35,9 @@ Il faut distinguer :
 
 Principe : c'est au demandeur de prouver ce qu'il invoque
 Exceptions :
-- Présomptions simples et irréfragables
+- Présomptions simples et irréfragables (c'est donc au défenseur de prouver)
+
+##### <mark class="hltr-grey format">Exemple</mark>
+- Présomption simple => le mari est le père de l'enfant (on part du principe que le mari est le père de l'enfant) =>  il doit prouver qu'il n'est pas le père
+
+- Présomption irréfragable => il est impossible pour le défendeur de prouver qu'il n'est pas responsable (présumé responsable)
