@@ -16,10 +16,10 @@ Force obligatoire => un contrat valablement formé a force obligatoire entre les
 ### <mark class="hltr-pink format">B) Conditions de validité</mark>
 
 - Consentement libre et éclairé : obligation d'information et de conseil de la part du vendeur 
-- Le consentement ne doit pas être vicié (avec des vices) :
-	- erreur doit être substantielle
-	- dol (manœuvre frauduleuse d'un des co-contractants)
-	- violence (moral, physique)
+	- Le consentement ne doit pas être vicié (avec des vices) :
+		- erreur doit être substantielle
+		- dol (manœuvre frauduleuse d'un des co-contractants)
+		- violence (moral, physique)
 - Capacité juridique : 
 	- majeur capable
 	- majeur incapable => peut être sur tutelle/curatelle
