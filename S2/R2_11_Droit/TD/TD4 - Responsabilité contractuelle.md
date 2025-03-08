@@ -7,6 +7,8 @@
 - Capacité juridique : D'après les informations données, la capacité juridique ne peut être déterminée.
 - Objet et cause : Le contrat porte sur le don du rein de Vincent à la mère Nathalie et la cause de ce contrat est le dommage du drone que Vincent a emprunté à Nathalie.
 Conclusion : Le contrat n'est pas licite car le contrat est vicié.
+Nullité absolue : Tout le monde peut l'invoquer
+Nullité relative : Vincent ou ses représentants peuvent l'invoquer
 
 ## <mark class="hltr-green format">ll. La capacité juridique</mark>
 
@@ -15,17 +17,19 @@ Conclusion : Le contrat n'est pas licite car le contrat est vicié.
 #### <mark class="hltr-blue format">1. Qualifiez les faits</mark>
 
 Parties :
-- Ilane, 17 ans, personne physique, consommateur
-- Le vendeur de scooter, personne morale, professionnel
+- Parents, personne physique, représentants légaux
+- Le vendeur de scooter, personne physique, professionnel
 Relation :
 - Contrat de consommation
 Fait : 
-- Ilane, mineur, a acheté un scooter sans l'accord de ses parents, avec un vendeur de scooter.
+- Ilane, mineur, a acheté un scooter sans l'accord de ses parents, à un vendeur de scooter.
 Demande :
 - Les parents de Ilane se demandent s'ils ont la possibilité d'annuler le contrat.
+- Le vendeur souhaite que le contrat soit reconnu licite
 #### <mark class="hltr-blue format">2.</mark>
 
-Selon l'article 1146 du Code civil, il est précisé qu'un mineur non émancipés est incapable de passer un contrat avec une autre personne. Ainsi, les responsables légaux doivent passer les contrats pour les personnes mineures.
+Selon l'article 1146 du Code civil, il est précisé qu'un mineur non émancipés est incapable juridiquement
+de passer un contrat avec une autre personne. Ainsi, les responsables légaux doivent passer les contrats pour les personnes mineures.
 
 Selon l'article 1148 du Code civil, il est dit que une personne incapable de passer un contrat peut néanmoins passer seule les actes courants autorisés par la loi ou l'usage, tant que ces derniers sont conclus à des conditions normales.
 
@@ -49,8 +53,10 @@ Parties :
 - Angel : personne physique, consommateur
 - pentathlon.fr, une personne morale, professionnel
 
-Relation : Contrat de consommation dématérialisé
-Faits : Angel a commandé une tenue de sport chez pentathlon.fr et souhaite le renvoyer 28 jours plus tard la réception du colis.
+Relation : 
+- Contrat de consommation dématérialisé
+Faits : 
+- Angel a commandé une tenue de sport chez pentathlon.fr et souhaite le renvoyer 28 jours plus tard la réception du colis.
 
 Demande : 
 - Angel : il souhaite faire valoir son droit de rétractation
