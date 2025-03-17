@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ce1a50318deaf1d",
+        "id": "ab2fd6ba2815e90f",
         "type": "tabs",
         "children": [
           {
-            "id": "6de766d21f7d9a25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S2/R2_11_Droit/CM/T5_Les_regimes_de_responsabilite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "T5_Les_regimes_de_responsabilite"
-            }
-          },
-          {
-            "id": "94ae100166a62351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S2/R2_11_Droit/TD/TD5 - Responsabilité extracontractuelle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TD5 - Responsabilité extracontractuelle"
-            }
-          },
-          {
-            "id": "bf6da507b9387a72",
+            "id": "711923352ac8bea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,23 +20,8 @@
               "icon": "lucide-file",
               "title": "TD4 - Responsabilité contractuelle"
             }
-          },
-          {
-            "id": "36554b9070399089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S2/R2_11_Droit/TD/TD3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TD3"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 211.5
   },
   "right": {
     "id": "cddbbf1f22612a3a",
@@ -206,34 +163,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf6da507b9387a72",
+  "active": "711923352ac8bea2",
   "lastOpenFiles": [
     "S2/R2_11_Droit/TD/TD5 - Responsabilité extracontractuelle.md",
-    "S2/R2_11_Droit/CM/T5_Les_regimes_de_responsabilite.md",
     "S2/R2_11_Droit/TD/TD4 - Responsabilité contractuelle.md",
     "S2/R2_11_Droit/TD/TD3.md",
-    "S2/R2_11_Droit/CM/T4_Le_litige_et_la_preuve.md",
+    "S2/R2_11_Droit/TD/TD2_Lorganisation_Judiciaire.md",
+    "S2/R2_11_Droit/TD/TD1 - Le droit et ses fonctions dans la société.md",
     "S2/R2_11_Droit/CM/T6_Comment_s_exonérer_de_sa_responsabilite.md",
+    "S2/R2_04_Comm_Fonc_Bas_Niveau/TD3.md",
+    "S2/R2_02_Ergonomie_Des_IHM/CM/CM4 JP.md",
+    "S2/R2_02_Ergonomie_Des_IHM/CM/CM3 - JP.md",
+    "S2/R2_04_Comm_Fonc_Bas_Niveau/TD4 Table routage.md",
+    "S2/R2_04_Comm_Fonc_Bas_Niveau/CM7 Réseaux.md",
+    "S2/R2_04_Comm_Fonc_Bas_Niveau/CM6 Réseaux.md",
+    "S2/R2_13_Communication_Tech_Et_Pro/TD5.md",
+    "S2/R2_13_Communication_Tech_Et_Pro/TD4.md",
+    "S2/R2_01_Dev_POO_UML/TD/TD7.md",
+    "S2/R2_01_Dev_POO_UML/TD/TD6.md",
+    "S2/R2_11_Droit/CM/T5_Les_regimes_de_responsabilite.md",
+    "S2/R2_11_Droit/CM/T4_Le_litige_et_la_preuve.md",
     "S2/R2_11_Droit/CM/T2_Organisation_judiciaire.md",
     "S2/R2_06_Exploit_BDD/Correction CC3.md",
-    "S2/R2_04_Comm_Fonc_Bas_Niveau/TD3.md",
-    "S2/R2_04_Comm_Fonc_Bas_Niveau/CM6 Réseaux.md",
     "S2/R2_04_Comm_Fonc_Bas_Niveau/CM5 Réseaux.md",
-    "S2/R2_02_Ergonomie_Des_IHM/CM/CM3 - JP.md",
     "S2/R2_03_Qualite_Dev/CM3 Test Unitaires.md",
-    "S2/R2_01_Dev_POO_UML/TD/TD6.md",
     "S2/R2_01_Dev_POO_UML/CM9 Les types Abstrait de Données (TAD) et collections.md",
     "S2/R2_11_Droit/CM/T3_Contrat_Et_Inexecution.md",
     "S2/R2_13_Communication_Tech_Et_Pro/TD3.md",
     "S2/R2_01_Dev_POO_UML/CM_UML/EVAL UML 1.md",
-    "S2/R2_11_Droit/CM/T1_Roles_Et_Sources.md",
-    "S2/R2_11_Droit/TD/TD1 - Le droit et ses fonctions dans la société.md",
-    "S2/R2_03_Qualite_Dev/TD1.md",
-    "S1/R1_05_PORQ/AU Prochain contrôle CC3.md",
-    "S1/R1_05_PORQ/CMSQLAvantEval.md",
-    "S1/R1_05_PORQ/Prochain contrôle.md",
-    "S1/R1_05_PORQ/RecapSQL/CheetSheetSQL Oracle.md",
-    "S2/R2_13_Communication_Tech_Et_Pro/TD4.md",
     "S2/R2_01_Dev_POO_UML/CM_UML/CM4_UML.pdf",
     "algebrebool.jpg",
     "S2/R2_11_Droit/CM/les_juridictions.png",

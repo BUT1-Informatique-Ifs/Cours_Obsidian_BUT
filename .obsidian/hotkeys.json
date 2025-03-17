@@ -70,5 +70,13 @@
       ],
       "key": "]"
     }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "5"
+    }
   ]
 }
