@@ -63,3 +63,7 @@
 	- Les couches hautes
 	- Les couches matérielles
 - Le nom de l'unité de données change en fonction de la couche
+
+La couche physique : chargée de la transmission effective des signaux électriques ou optiques entre les différents interlocuteurs.
+
+La couche Liaison de données : transforme une transmission brute en une ligne sans erreurs de transmission jusqu'à la couche réseau. Les données sont donc découpées en trames (frames) comprises entre 100 et 1000 octets. Et elles sont envoyées de manière séquentielles. Pour cette couche, ce sont les adresses MAC qui sont utilisées

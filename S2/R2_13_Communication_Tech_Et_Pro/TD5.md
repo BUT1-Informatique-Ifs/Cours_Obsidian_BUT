@@ -84,4 +84,4 @@ La hiérarchisation de l'information :
 
 - Partir de la connaissance du récepteur pour envisager l'inconnu, et donc recourir aux images, aux analogies, aux comparaisons
 - Dégager l'essentiel à dire en fonction du contexte de communication, de l'objectif de l'intervention, des personnes concernées
-- Utiliser un langage adapté au récepteur, simple, précis, concis
+- Utiliser un langage adapté au récepteur : simple, précis, concis
