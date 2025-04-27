@@ -109,5 +109,3 @@ Basé sur 3 modules :
 - En temps de réponse
 - En bande passante
 - A garantir un niveau acceptable de perte de données pour un usage donné
-
-Contrairement à u
